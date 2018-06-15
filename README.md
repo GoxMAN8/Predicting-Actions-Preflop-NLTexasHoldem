@@ -1,5 +1,7 @@
 # Predicting-Actions-Preflop-NLTexasHoldem
 
+Project part of the module INM430, Principles of data science, City University, London
+
 Motivation 
 
 The motivation of this paper, comes from the authors’ personal opinion, that any solution to games with imperfect information could be further improved via human/machine interaction. Statistical software programs, like Poker Tracker 4, and Holdem Manager 2, provides players with huge number of real time statistics to dive in, while making a decision. This paper investigates some of the most important variables affecting decisions in poker, on two levels. First are variables, available at any single poker hand2 – ‘’hand environment’’. Second part, are sticky characteristics calculated as sum of actions, for the fixed time into the past. Latter is much more difficult to incorporate into the modern algorithms, as it increases computational needs substantially, acting as agents’ short-term memory.
