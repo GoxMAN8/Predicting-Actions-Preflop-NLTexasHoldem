@@ -1,6 +1,6 @@
 # Predicting-Actions-Preflop-NLTexasHoldem
 
-Project part of the module INM430, Principles of data science, City University, London
+Project part of the module INM430, Principles of data science, City University, London. Synthesis of a full report.
 
 Motivation 
 
